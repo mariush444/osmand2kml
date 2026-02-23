@@ -1,4 +1,12 @@
 # osmand2kml
+<div align="center">
+  
+![python](https://img.shields.io/badge/python-green?logo=python)
+![osmand](https://img.shields.io/badge/osmand%20layer-GPX-navy?logo=osmand)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+</div>
+
 Osmand gpx file to KML conversion with icons (from osmand icons to newer google icons style).
 
 Generally osmand gpx file can be import to gMaps but only one standard icon is used.
